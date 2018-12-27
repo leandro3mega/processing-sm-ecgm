@@ -7,11 +7,12 @@ Neste projeto foi desenvolvido uma replica do jogo breakout, em que o utilizador
 ## Linguagem:
 Processing 3.4.
 
-## Existente no Projeto: 
+## Design:
+Design original desenvolvido pelo dono deste repositório.
+
+## Programação desenvolvida:
+###### A programação usada para a câmara é feita usando o código fornecido pelos exemplos da biblioteca de vídeo do próprio Processing.
 - Uso de câmara, para ser selecionada uma cor com o cursor e ser feito o tracking dessa cor (sendo desta forma movida a raquete pelo utilizador), sendo feito atravéz de biblioteca de video.
 - Uso do microfone, sendo controladas certas ações no jogo com o som, com ajuda de biblioteca de som.
 - Aleatoriedade no setup de blocos.
 - Existencia de sons no jogo, atravéz de bibliotecas de som.
-
-###### Design
-Design original desenvolvido pelo dono deste repositório.
